@@ -23,15 +23,31 @@ Para garantir que a gente consiga brincar no carro separando as músicas por dé
 *   **Interface Simples:** Totalmente baseado em texto, focado na praticidade e na lógica de programação.
 
 ## 🚀 Como rodar o projeto na sua máquina
-Utilizamos cookies opcionais para melhorar a sua experiência nos nossos websites, por exemplo, através de ligações a redes sociais, e para apresentar publicidade personalizada com base na sua atividade online. Se rejeitar os cookies opcionais, apenas serão utilizados os cookies necessários para lhe prestar os serviços. Pode alterar a sua seleção clicando em “Gerir Cookies” na parte inferior da página. Declaração de Privacidade Cookies de Terceiros
-AceitarRejeitarGerenciar cookies
-Visual Studio Code
 
 ### Pré-requisitos
 
-Você vai precisar ter o [Python](https://www.python.org/downloads/) instalado no seu computador.
+Você vai precisar ter o **Python** (https://www.python.org/downloads/) instalado no seu computador.
 
-IDE[Visual Studio Code](https://code.visualstudio.com/download?_exp_download) instalado no seu computador.
+* Aula de como instalar o **Python**
+Link: 
+
+IDE **Visual Studio Code** (https://code.visualstudio.com/download?_exp_download) instalado no seu computador.
+
+* Aula de como instalar o **Visual Studio Code**
+Link: 
+
+### Quer aprender **Python** Para Dados **Gratuito**
+
+Link: 
+
+### Quer aprender **Python** Para programação? **Gratuito** 
+
+Link:  https://youtu.be/S9uPNppGsGo?si=0n2JRGMlV70bfXto ou https://www.cursoemvideo.com/curso/python-3-mundo-1/
+
+### Quer aprender **GitHub**  **Gratuito** 
+
+Link: https://www.cursoemvideo.com/curso/curso-de-git-e-github/
+
 
 ### Passo a Passo
 
