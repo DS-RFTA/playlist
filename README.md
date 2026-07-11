@@ -38,15 +38,15 @@ Link:
 
 ### Quer aprender **Python** Para Dados **Gratuito**? 
 
-Link: 
+Link: https://www.youtube.com/watch?v=OeKzVjiiRm4&list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D ou https://cursos.teomewhy.org/trilhas
 
 ### Quer aprender **Python** Para programação **Gratuito**?
 
-Link:  https://youtu.be/S9uPNppGsGo?si=0n2JRGMlV70bfXto ou https://www.cursoemvideo.com/curso/python-3-mundo-1/
+Link:  https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 ou https://www.cursoemvideo.com/curso/python-3-mundo-1/
 
 ### Quer aprender **GitHub** e **Gratuito**?
 
-Link: https://www.cursoemvideo.com/curso/curso-de-git-e-github/
+Link:  https://www.youtube.com/watch?v=OeKzVjiiRm4&list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D , https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA ou https://www.cursoemvideo.com/curso/curso-de-git-e-github/  
 
 
 ### Passo a Passo
