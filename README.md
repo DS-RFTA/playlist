@@ -36,15 +36,15 @@ IDE **Visual Studio Code** (https://code.visualstudio.com/download?_exp_download
 * Aula de como instalar o **Visual Studio Code**
 Link: 
 
-### Quer aprender **Python** Para Dados **Gratuito**
+### Quer aprender **Python** Para Dados **Gratuito**? 
 
 Link: 
 
-### Quer aprender **Python** Para programação? **Gratuito** 
+### Quer aprender **Python** Para programação **Gratuito**?
 
 Link:  https://youtu.be/S9uPNppGsGo?si=0n2JRGMlV70bfXto ou https://www.cursoemvideo.com/curso/python-3-mundo-1/
 
-### Quer aprender **GitHub**  **Gratuito** 
+### Quer aprender **GitHub** e **Gratuito**?
 
 Link: https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 
