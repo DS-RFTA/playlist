@@ -30,13 +30,14 @@ Visual Studio Code
 ### Pré-requisitos
 
 Você vai precisar ter o [Python](https://www.python.org/downloads/) instalado no seu computador.
+
 IDE[Visual Studio Code](https://code.visualstudio.com/download?_exp_download) instalado no seu computador.
 
 ### Passo a Passo
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/DS-RFTA/playlist.git
    ```
 
 2. **Acesse a pasta do projeto:**
