@@ -1,12 +1,16 @@
 
 <p align="center">
- <img src="[COLE O LINK DO SEU BANNER](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=%20RoadTrip%20Playlist%20Manager&fontSize=50)">
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=%20RoadTrip%20Playlist%20Manager&fontSize=50">
 </p>
+
+
 
 # 🚗 RoadTrip Playlist Manager
 
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
+
 
 > *"A regra número um de uma viagem inesquecível é ter uma trilha sonora perfeita!"*
 
@@ -80,4 +84,7 @@ Como o projeto serve para eu treinar programação, aqui estão algumas ideias d
 - [ ] Implementar um sistema de ordenação (por ano ou em ordem alfabética).
 
 ---
-Feito com 🎧, muito café e vontade de botar o pé na estrada!
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Feito%20com%20🎧,%20muito%20café%20e%20vontade%20de%20botar%20o%20pé%20na%20estrada!&section=footer&fontSize=20">
+</p>
+
