@@ -1,3 +1,8 @@
+
+<p align="center">
+ <img src="[COLE O LINK DO SEU BANNER](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=%20RoadTrip%20Playlist%20Manager&fontSize=50)">
+</p>
+
 # 🚗 RoadTrip Playlist Manager
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
