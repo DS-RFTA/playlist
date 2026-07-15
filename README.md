@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="[https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=%20RoadTrip%20Playlist%20Manager&fontSize=50](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🚗%20RoadTrip%20Playlist%20Manager&section=header&fontSize=30)">
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=%20RoadTrip%20Playlist%20Manager&fontSize=50](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🚗%20RoadTrip%20Playlist%20Manager&section=header&fontSize=30">
 </p>
 
 
